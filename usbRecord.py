@@ -1,4 +1,6 @@
-  import pyvisa  # PyVISA library for USB communication
+# Requires NI Visa Software
+
+import pyvisa  # PyVISA library for USB communication
 import signal
 import csv
 import time
